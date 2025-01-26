@@ -258,3 +258,5 @@ char* readStr() {
     }
     return buffstr;
 }
+
+// ok
